@@ -4,4 +4,4 @@
 
 **Below is the screenshot of the final dashboard**
 
-![Test Image 1](https://github.com/desaikun1996/Superstore-Data-Analysis-and-Visulization-using-Looker-Studio/blob/main/Superstore_Dashboard
+![Test Image 1](https://github.com/desaikun1996/Superstore-Data-Analysis-and-Visulization-using-Looker-Studio/blob/main/Superstore_Dashboard.png)
